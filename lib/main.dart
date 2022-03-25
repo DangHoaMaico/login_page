@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:json_store/json_store.dart';
 import 'package:login_page/file_manager/file_manager.dart';
 import 'package:login_page/firebase_manager/firebase_manager.dart';
-import 'package:login_page/model/User/contact.dart';
+
 import 'package:login_page/routes/add_contact.dart';
 import 'package:login_page/routes/change_password.dart';
 import 'package:login_page/routes/contact_edit.dart';

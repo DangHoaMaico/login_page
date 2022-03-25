@@ -1,4 +1,4 @@
-import 'package:login_page/model/User/User.dart';
+import 'package:login_page/model/User/user.dart';
 
 class Contact extends UserDetail {
   bool isMark = false;

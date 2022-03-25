@@ -7,11 +7,11 @@ import 'package:login_page/colors/color.dart';
 import 'package:login_page/file_manager/file_manager.dart';
 
 import 'package:login_page/firebase_manager/firebase_manager.dart';
-import 'package:login_page/model/User/contact.dart';
 
 import '../decoration/style.dart';
 
 import '../dialog_manager/dialog.dart';
+import '../model/contact/contact.dart';
 import '../validate/validates.dart';
 
 class AddContact extends StatefulWidget {

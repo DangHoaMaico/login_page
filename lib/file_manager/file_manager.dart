@@ -1,6 +1,5 @@
-import 'package:login_page/model/User/contact.dart';
-
 import 'package:json_store/json_store.dart';
+import 'package:login_page/model/contact/contact.dart';
 import 'package:sqflite_common/sqlite_api.dart';
 
 class FileManager {

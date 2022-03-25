@@ -5,7 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:login_page/decoration/style.dart';
 import 'package:login_page/firebase_manager/firebase_manager.dart';
 import 'package:login_page/main.dart';
-import 'package:login_page/model/User/contact.dart';
+
+import 'package:login_page/model/contact/contact.dart';
 import 'package:login_page/routes/contact_detail.dart';
 import 'package:login_page/widget/circle_progess.dart';
 

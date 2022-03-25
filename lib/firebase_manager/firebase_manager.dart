@@ -10,7 +10,8 @@ import 'package:flutter/material.dart';
 import 'package:login_page/dialog_manager/dialog.dart';
 import 'package:login_page/file_manager/file_manager.dart';
 import 'package:login_page/model/User/User.dart';
-import 'package:login_page/model/User/contact.dart';
+import 'package:login_page/model/contact/contact.dart';
+
 import 'package:shared_preferences/shared_preferences.dart';
 
 class FireBaseManager {

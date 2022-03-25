@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:login_page/colors/color.dart';
 import 'package:login_page/decoration/style.dart';
 import 'package:animate_icons/animate_icons.dart';
-import 'package:login_page/model/User/contact.dart';
+import 'package:login_page/model/User/contact/contact.dart';
 import 'package:login_page/widget/avatar.dart';
 
 class ListContacstItem extends StatefulWidget {
